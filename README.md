@@ -1,5 +1,6 @@
 ![Header](./images/header_main.svg)
 <h1 align="center">Hi 👋, I'm Alessio Bugetti</h1>
+
 - 🌱 I’m currently studying **for a Master's degree in Computer Engineering at Università degli Studi di Firenze**
 
 - 💬 Ask me about **anything**
