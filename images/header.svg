@@ -1,11 +1,6 @@
-<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 115 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
 <style>
-
-svg text {
-  transform-origin: 50% 50%;
-  transform: translate(0%, -40%) rotate(180deg);
-}
 
 svg image {
   transform-origin: 50% 50%;
@@ -13,9 +8,7 @@ svg image {
 }
 
 svg {
-  width:100vw;
   position:fixed;
-  top:-5px;
   transform: rotate(180deg);
   overflow:visible;
 }
