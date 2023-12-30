@@ -1,5 +1,3 @@
-![Alt text](./images/header.svg)
-
 - 🌱 I’m currently studying **for a Master's degree in Computer Engineering at Università degli Studi di Firenze**
 
 - 💬 Ask me about **anything**
