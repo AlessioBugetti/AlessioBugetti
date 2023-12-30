@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alessio.bugetti@edu.unifi.it** (institutional email), **alessiobugetti98@gmail.com** (personal email)
   
-- ⚽🏀🏄 Oh, and I'm a **sports enthusiast**, with a particular love for football (soccer, if you are American)
+- ⚽🏀🏄 Oh, and **I'm a sports enthusiast**, with a particular love for football (soccer, if you are American)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
