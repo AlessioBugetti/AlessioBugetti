@@ -2,11 +2,13 @@
 <h3 align="center">A passionate Software Engineer from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gjcdn.net/public-data/fireside/posts/0/162/162/media/5d0c778bdf59d-wct3ztff.gif">
 
-- 🌱 I’m currently studying **for a Master's degree in Computer Engineering at UniFi**
+- 🌱 I’m currently studying **for a Master's degree in Computer Engineering at Università degli Studi di Firenze**
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **alessio.bugetti@edu.unifi.it** (institutional email), **alessiobugetti98@gmail.com** (personal email)
+  
+- ⚽🏀🏄 Oh, and I'm a sports enthusiast, with a particular love for football (soccer, if you are American)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
