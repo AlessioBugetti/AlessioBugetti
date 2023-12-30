@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alessio-bugetti-1163a3274" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="alessio-bugetti-1163a3274" height="50" width="50" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="alessiobugetti" height="50" width="50" /></a>
 <a href="https://discord.com/users/alessio1911" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="provaprova" height="50" width="50" /></a>
 </p>
 
