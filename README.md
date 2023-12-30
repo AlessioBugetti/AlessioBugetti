@@ -1,4 +1,4 @@
-![Header](./images/header_main.svg)
+![Header](./images/header.svg)
 
 <h1 align="center">Hi 👋, I'm Alessio Bugetti</h1>
 
