@@ -1,53 +1,54 @@
-<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewbox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      .wave {
+        animation: wave 8s linear infinite;
+      }
 
-<style>
-svg {
-  width:100vw;
-  position:fixed;
-  top:-5px;
-  transform: rotate(180deg);
-  overflow:visible;
-}
+      .wave1 {
+        animation: wave1 10s linear infinite;
+      }
 
-.wave {
-  animation: wave 3s linear;
-  animation-iteration-count:infinite;
-  fill: #fa700b;  
-}
+      .wave2 {
+        animation: wave2 12s linear infinite;
+      }
 
-#wave2 {
-  animation-duration:5s;
-  animation-direction: reverse;
-  opacity: .6
-}
-#wave3 {
-  animation-duration: 7s;
-  opacity:.3;
-}
-@keyframes wave {
-  to {transform: translateX(-100%);}
-}
+      @keyframes wave {
+        0% {
+          transform: translateX(0%);
+        }
 
-</style>
+        100% {
+          transform: translateX(100%);
+        }
+      }
 
- <defs> 
-    <filter id="goo">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
-      <feColorMatrix in="blur" mode="matrix" values="
-           1 0 0 0 0  
-           0 1 0 0 0  
-           0 0 1 0 0  
-           0 0 0 13 -9" result="goo" />
-      <xfeBlend in="SourceGraphic" in2="goo" />
-  	</filter>
-   
-    <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
-  </defs> 
- 
-  <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
-  <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
- 
-  <g class="gooeff" filter="url(#goo)">
-    <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" />
-  </g>  
+      @keyframes wave1 {
+        0% {
+          transform: scaleY(1.2) translateX(0%);
+        }
+
+        100% {
+          transform: scaleY(1.2) translateX(100%);
+        }
+      }
+
+      @keyframes wave2 {
+        0% {
+          transform: scaleY(.8) translateX(0%);
+        }
+
+        100% {
+          transform: scaleY(.8) translateX(100%);
+        }
+      }
+    </style>
+    <path id='sineWave' fill="#fa700b" fill-opacity="0.6" d="M0,160 C320,300,420,300,740,160 C1060,20,1120,20,1440,160 V0 H0" />
+  </defs>
+  <use class="wave" href="#sineWave" />
+  <use class="wave" x="-100%" href="#sineWave" />
+  <use class="wave1" href="#sineWave" />
+  <use class="wave1" x="-100%" href="#sineWave" />
+  <use class="wave2" href="#sineWave" />
+  <use class="wave2" x="-100%" href="#sineWave" />
 </svg>
