@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **alessio.bugetti@edu.unifi.it**
+- 📫 How to reach me **alessio.bugetti@edu.unifi.it** (institutional email), **alessiobugetti98@gmail.com** (personal email)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
