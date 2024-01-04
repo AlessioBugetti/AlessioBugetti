@@ -1,6 +1,6 @@
 ![Header](./images/header.svg)
 
-<h1 align="center">Hi 👋, I'm Alessio Bugetti</h1>
+<h1 align="center">Hi 👋🏻, I'm Alessio Bugetti</h1>
 
 - 🌱 I’m currently studying **for a Master's degree in Computer Engineering at Università degli Studi di Firenze**
 
@@ -10,7 +10,7 @@
   
 - ⚽🏀🏄 Oh, and **I'm a sports enthusiast**, with a particular love for football (soccer, if you are American)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">⻀Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alessio-bugetti-1163a3274" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="alessio-bugetti-1163a3274" height="50" width="50" /></a>
 <a href="https://discord.com/users/alessio1911" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="provaprova" height="50" width="50" /></a>
