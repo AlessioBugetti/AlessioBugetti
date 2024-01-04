@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="25px">, I'm Alessio Bugetti</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlessioBugetti&label=Profile%20views&color=0e75b6&style=flat&color=fa700b&style=for-the-badge" alt="alessiobugetti" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlessioBugetti&label=Profile%20views&color=0e75b6&style=flat&color=ea690b&style=for-the-badge" alt="alessiobugetti" /></p>
 
 - 🌱 I’m currently studying **for a Master's degree in Computer Engineering at Università degli Studi di Firenze**
 
