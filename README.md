@@ -14,8 +14,8 @@
 
 <h3 align="left">⻀Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alessio-bugetti-1163a3274" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="alessio-bugetti-1163a3274" height="50" width="50" /></a>
-<a href="https://discord.com/users/alessio1911" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="provaprova" height="50" width="50" /></a>
+  <a href="https://linkedin.com/in/alessio-bugetti-1163a3274" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="https://discord.com/users/alessio1911" target="blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
 </p>
 
 <h3 align="left">⽭Languages and Tools:</h3>
