@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 Feel free to reach out to me at:
+- 📫 Feel free to contact me at:
   - **alessiobugetti98@gmail.com** (personal email)
   - **alessio.bugetti@edu.unifi.it** (institutional email)
   
