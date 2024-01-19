@@ -8,7 +8,9 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **alessio.bugetti@edu.unifi.it** (institutional email), **alessiobugetti98@gmail.com** (personal email)
+- 📫 Feel free to reach out to me at:
+  - **alessiobugetti98@gmail.com** (personal email)
+  - **alessio.bugetti@edu.unifi.it** (institutional email)
   
 - ⚽🏀🏄 Oh, and **I'm a sports enthusiast**, with a particular love for football (soccer, if you are American)
 
